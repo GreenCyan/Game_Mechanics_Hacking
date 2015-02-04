@@ -5,3 +5,6 @@ command.width = 500;
 command.fontSize = 12;
 command.clearOnFocus = true;
 command.editable = true;
+
+var hackerIcon = new Sprite();
+var targetIcon = new Sprite();
